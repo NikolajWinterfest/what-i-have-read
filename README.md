@@ -56,7 +56,7 @@
 ### Склонировать проект на ваш компьютер с Github с помощью команды:
 
 ```
-gh repo clone NikolajWinterfest/what-i-have-read
+git clone NikolajWinterfest/what-i-have-read
 ```
 
 ### Установить зависимости с помощью команды
